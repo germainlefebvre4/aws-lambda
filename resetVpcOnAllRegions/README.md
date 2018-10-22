@@ -1,4 +1,4 @@
-# Terminate EC2 Instances from all regions
+# Reset VPC and EC2 services from all regions
 
 This Function will reset the EC2 Service in all available regions on the current AWS Account.
 
